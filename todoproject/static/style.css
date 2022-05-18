@@ -1,7 +1,7 @@
 body{background-color:antiquewhite;}
 .banner {
          height: 100px;
-         width: 500px;
+         width: 100%;
          background-color: powderblue;
          margin-bottom:50px;
          }
